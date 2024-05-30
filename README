@@ -1,0 +1,2 @@
+Simple Flask app that uses SQLAlchemy, basic HTML/CSS for the frontend, python venv for backend development, and Heroku to deploy.
+Followed: https://www.youtube.com/watch?v=Z1RJmh_OqeA&ab_channel=freeCodeCamp.org
